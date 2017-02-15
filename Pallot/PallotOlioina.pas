@@ -65,20 +65,3 @@ begin
 
         CloseGraph;
 end.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
